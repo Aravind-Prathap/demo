@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText1",
+	"name": "Sourcetxt",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "HttpServer1",
